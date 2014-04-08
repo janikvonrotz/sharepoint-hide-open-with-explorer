@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="HideExplorer Feature" Id="53d4969a-f1ca-452a-b910-b7632b659a82" Scope="Site">
+  <ElementManifests>
+    <ElementManifest Location="HideExplorerElement\Elements.xml" />
+  </ElementManifests>
+</Feature>

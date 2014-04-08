@@ -1,0 +1,19 @@
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\bin\Debug\HideExplorer.dll
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\bin\Debug\HideExplorer.pdb
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\obj\Debug\ResolveAssemblyReference.cache
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\obj\Debug\HideExplorer.dll
+C:\Shrihari\WCF client test\HideExplorer\HideExplorer\obj\Debug\HideExplorer.pdb
+C:\Custom\Projects\HideExplorer\HideExplorer\bin\Debug\HideExplorer.dll
+C:\Custom\Projects\HideExplorer\HideExplorer\bin\Debug\HideExplorer.pdb
+C:\Custom\Projects\HideExplorer\HideExplorer\bin\Debug\Microsoft.SharePoint.Search.dll
+C:\Custom\Projects\HideExplorer\HideExplorer\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Custom\Projects\HideExplorer\HideExplorer\obj\Debug\ResolveAssemblyReference.cache
+C:\Custom\Projects\HideExplorer\HideExplorer\obj\Debug\HideExplorer.dll
+C:\Custom\Projects\HideExplorer\HideExplorer\obj\Debug\HideExplorer.pdb
+C:\Adi\HideExplorer\HideExplorer\bin\Debug\HideExplorer.dll
+C:\Adi\HideExplorer\HideExplorer\bin\Debug\HideExplorer.pdb
+C:\Adi\HideExplorer\HideExplorer\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Adi\HideExplorer\HideExplorer\obj\Debug\ResolveAssemblyReference.cache
+C:\Adi\HideExplorer\HideExplorer\obj\Debug\HideExplorer.dll
+C:\Adi\HideExplorer\HideExplorer\obj\Debug\HideExplorer.pdb

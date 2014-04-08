@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="b3f37bbf-058f-4bec-ad86-020ea3576c6b" solutionId="b3f37bbf-058f-4bec-ad86-020ea3576c6b" resetWebServer="false" name="HideExplorer" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="44c7db4b-b6c4-4b75-bbd5-5efb22bcac68" />
+  </features>
+</package>

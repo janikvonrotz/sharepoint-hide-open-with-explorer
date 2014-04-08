@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="b3f37bbf-058f-4bec-ad86-020ea3576c6b" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="HideExplorer.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="HideExplorer_HideExplorerView\Feature.xml" />
+  </FeatureManifests>
+</Solution>
